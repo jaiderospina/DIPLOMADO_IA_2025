@@ -29,5 +29,8 @@ Dado que Pinokio es una plataforma para ejecutar y gestionar aplicaciones de IA 
 * **Docker:** Una plataforma que permite empaquetar aplicaciones y sus dependencias en contenedores, lo que facilita la ejecución en cualquier entorno.
 * **GitHub Desktop:** Para la gestión de repositorios de código, aunque no ejecuta aplicaciones directamente, ayuda a gestionar las bases de código que pueden contener estas herramientas.
 
+# Instalación.
+
 - https://pinokio.co/docs/#/?id=install
+
 

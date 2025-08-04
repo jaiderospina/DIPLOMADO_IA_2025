@@ -1,7 +1,7 @@
-## Herramientas.
+# Herramientas.
 
 
-# Pinokio (https://pinokio.co/docs/#/?id=install)
+## Pinokio (https://pinokio.co/docs/#/?id=install)
 Pinokio es un navegador que permite a los usuarios instalar, ejecutar y gestionar cualquier aplicación de servidor de forma local con un solo clic. Funciona como un "hub" o centro de control para diversas herramientas y modelos de inteligencia artificial, lo que simplifica enormemente el proceso de configuración y ejecución.
 
 ![pinokio](images/pinokio.gif)
@@ -28,6 +28,7 @@ Dado que Pinokio es una plataforma para ejecutar y gestionar aplicaciones de IA 
 * **Anaconda/Miniconda:** Para la gestión de entornos y paquetes de Python, es una herramienta común en el desarrollo de IA.
 * **Docker:** Una plataforma que permite empaquetar aplicaciones y sus dependencias en contenedores, lo que facilita la ejecución en cualquier entorno.
 * **GitHub Desktop:** Para la gestión de repositorios de código, aunque no ejecuta aplicaciones directamente, ayuda a gestionar las bases de código que pueden contener estas herramientas.
+
 
 
 https://pinokio.co/docs/#/?id=install

@@ -1,3 +1,5 @@
+# OLLAMA
+
 Crear un modelo de IA en Ollama ofrece varias ventajas, especialmente para desarrolladores y entusiastas que buscan una forma sencilla y local de experimentar con modelos de lenguaje grandes (LLMs). Las principales ventajas son la **facilidad de uso**, la **ejecución local** y la **personalización**.
 
 ---
@@ -35,4 +37,5 @@ Ollama no solo te permite usar modelos existentes, sino que también facilita la
   - https://ollama.com/
   - https://4geeks.com/es/interactive-coding-tutorial/instalando-ollama-y-openwebui
   - https://www.xataka.com/basics/que-ollama-como-usarlo-para-instalar-tu-ordenador-modelos-inteligencia-artificial-como-llama-deepseek
+
 

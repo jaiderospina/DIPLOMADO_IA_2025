@@ -17,6 +17,10 @@
 - **Multilenguaje e internacionalización:** Interfaz disponible en varios idiomas.
 - **Actualización continua y soporte comunitario.**
 
+### Comunidad.
+
+Open WebUI Community es una comunidad vinculada a Open WebUI, que es una plataforma de inteligencia artificial autoalojada, extensible, y fácil de usar para interactuar con grandes modelos de lenguaje (LLM). Open WebUI permite operar totalmente offline, ofreciendo un control total sobre los datos y la privacidad, lo que es ideal para empresas e investigadores preocupados por la seguridad y el cumplimiento normativo. La comunidad facilita compartir ejemplos de modelos, herramientas, avisos y funciones, además de colaborar en el desarrollo y uso de la plataforma. Dentro de Open WebUI, se pueden usar herramientas creadas por la comunidad para ampliar las funcionalidades, como web scraping, generación de voz, acceso a noticias, entre otros, muchas veces disponibles sin necesidad de APIs externas o con opciones para integrarlas.
+
 ### Instalación Rápida
 
 #### Opción 1: Python pip
@@ -86,5 +90,6 @@
 - https://www.itflashcards.com/blog/es/ollama-open-webui-ejecutar-llms-localmente/
 - https://4geeks.com/es/interactive-coding-tutorial/instalando-ollama-y-openwebui
 - https://youtu.be/shjlblBLLLk?si=h48cGtnx__5JVk2m
+
 
 

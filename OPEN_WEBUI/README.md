@@ -83,7 +83,8 @@
 **Open WebUI** es ideal para quienes buscan una solución robusta, autoalojada y con control total sobre su infraestructura de IA, listas para despliegue corporativo o entornos experimentales avanzados.
 
 - https://github.com/open-webui/open-webui
-
+- https://www.itflashcards.com/blog/es/ollama-open-webui-ejecutar-llms-localmente/
 - https://4geeks.com/es/interactive-coding-tutorial/instalando-ollama-y-openwebui
 - https://youtu.be/shjlblBLLLk?si=h48cGtnx__5JVk2m
+
 

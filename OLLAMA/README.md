@@ -27,4 +27,10 @@ Ollama no solo te permite usar modelos existentes, sino que también facilita la
 
 * **Quantization**: Ollama permite comprimir modelos, lo que los hace más rápidos y eficientes en hardware menos potente. Esto es ideal para laptops o computadoras de escritorio estándar.
 * **Fine-tuning (ajuste fino)**: Puedes entrenar un modelo base con tus propios datos para que se adapte mejor a tus necesidades específicas. Esto es útil para crear asistentes especializados, chatbots de servicio al cliente o herramientas de análisis de datos.
+
 * **Formatos de modelos**: Ollama soporta una variedad de formatos de modelos populares, lo que te permite importar y utilizar una amplia gama de modelos desarrollados por la comunidad de IA.
+
+  # Referencias.
+
+  - https://ollama.com/
+  - https://www.xataka.com/basics/que-ollama-como-usarlo-para-instalar-tu-ordenador-modelos-inteligencia-artificial-como-llama-deepseek

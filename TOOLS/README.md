@@ -34,6 +34,8 @@ Dado que Pinokio es una plataforma para ejecutar y gestionar aplicaciones de IA 
 # Instalación.
 
 - https://pinokio.co/docs/#/?id=install
+- https://pinokio.co/
+
 
 
 

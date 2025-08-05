@@ -1,6 +1,8 @@
 # Manual Básico: Cómo Instalar tu Propio Entorno Local Tipo ChatGPT
 
-Este manual te guiará a través de los pasos para configurar un entorno de inteligencia artificial similar a ChatGPT directamente en tu máquina, utilizando modelos de lenguaje abiertos como Llama 3, sin necesidad de APIs externas o conexión a internet constante.
+Este manual guiará a través de los pasos para configurar un entorno de inteligencia artificial similar a ChatGPT directamente en tu máquina, utilizando modelos de lenguaje abiertos como Llama 3, sin necesidad de APIs externas o conexión a internet constante. 
+
+Para más detalla ir al vídeo de refrencia haciendo clic sobre el minuto de interés.
 
 ## 1\. ¿Qué Aprenderás a Configurar?
 
@@ -85,4 +87,4 @@ Puedes descargar modelos adicionales en cualquier momento usando el comando `oll
 -----
 
 Este manual te proporciona una guía completa para empezar a utilizar tu propio entorno de IA local. ¡Disfruta explorando las capacidades de los modelos de lenguaje abiertos\!
-http://googleusercontent.com/youtube_content/2
+

@@ -85,3 +85,5 @@
 - https://github.com/open-webui/open-webui
 
 - https://4geeks.com/es/interactive-coding-tutorial/instalando-ollama-y-openwebui
+- https://youtu.be/shjlblBLLLk?si=h48cGtnx__5JVk2m
+

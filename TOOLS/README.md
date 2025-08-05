@@ -1,6 +1,8 @@
 # Herramientas.
 
-
+1. ##  Mapas Mentales
+   - https://www.min87.com/tools/markmap/
+   - https://markmap.js.org/repl
 ## Pinokio.
 Pinokio es un navegador que permite a los usuarios instalar, ejecutar y gestionar cualquier aplicación de servidor de forma local con un solo clic. Funciona como un "hub" o centro de control para diversas herramientas y modelos de inteligencia artificial, lo que simplifica enormemente el proceso de configuración y ejecución.
 
@@ -32,6 +34,7 @@ Dado que Pinokio es una plataforma para ejecutar y gestionar aplicaciones de IA 
 # Instalación.
 
 - https://pinokio.co/docs/#/?id=install
+
 
 
 

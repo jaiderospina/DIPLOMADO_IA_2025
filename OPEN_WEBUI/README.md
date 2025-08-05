@@ -2,6 +2,8 @@
 
 **Open WebUI** es una plataforma de interfaz de usuario de IA autoalojada, extensible y fácil de usar, que puede funcionar completamente sin conexión. Permite interactuar con diferentes modelos de lenguaje (LLMs) y facilita la integración de diversas APIs compatibles como Ollama y OpenAI.
 
+![ ](OPENWEBUI.gif)
+
 ### Funcionalidades Principales
 
 - **Instalación sencilla:** Compatible con Docker, Kubernetes y pip (Python).
@@ -81,4 +83,5 @@
 **Open WebUI** es ideal para quienes buscan una solución robusta, autoalojada y con control total sobre su infraestructura de IA, listas para despliegue corporativo o entornos experimentales avanzados.
 
 - https://github.com/open-webui/open-webui
+
 - https://4geeks.com/es/interactive-coding-tutorial/instalando-ollama-y-openwebui

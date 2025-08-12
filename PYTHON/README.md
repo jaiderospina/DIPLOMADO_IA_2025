@@ -81,3 +81,102 @@ print("Hello World")
 Si ejecuta correctamente y ves `Hello World` en pantalla, tu instalación está lista para usarse.[1]
 
 ***
+
+---
+
+# Ejemplo Ejercicio Básico.
+
+**Ejemplo básico en Python** pensado para el área de **Recursos Humanos (RRHH)**, explicado paso a paso, para que puedas entender cómo funciona y cómo adaptarlo a tus necesidades.  
+
+En este caso, haremos un **pequeño programa que gestione empleados**, permitiendo:  
+- **Registrar empleados**  
+- **Listarlos**  
+- **Calcular la edad promedio**  
+
+***
+
+## 📂 Ejemplo: Mini Sistema de Gestión de Empleados (RRHH)
+
+```python
+from datetime import datetime
+
+# Lista para almacenar los empleados
+empleados = []
+
+# Función para registrar un empleado
+def registrar_empleado(nombre, fecha_nacimiento, puesto):
+    empleado = {
+        "nombre": nombre,
+        "fecha_nacimiento": fecha_nacimiento,
+        "puesto": puesto
+    }
+    empleados.append(empleado)
+    print(f"Empleado '{nombre}' registrado con éxito.")
+
+# Función para mostrar todos los empleados
+def mostrar_empleados():
+    if not empleados:
+        print("No hay empleados registrados.")
+        return
+    print("\n📋 Lista de Empleados:")
+    for i, emp in enumerate(empleados, 1):
+        print(f"{i}. {emp['nombre']} - {emp['puesto']} - Nacido en {emp['fecha_nacimiento']}")
+
+# Función para calcular la edad promedio de los empleados
+def edad_promedio():
+    if not empleados:
+        print("No hay empleados para calcular la edad.")
+        return
+    total_edades = 0
+    for emp in empleados:
+        fecha_nac = datetime.strptime(emp['fecha_nacimiento'], "%Y-%m-%d")
+        edad = (datetime.now() - fecha_nac).days // 365
+        total_edades += edad
+    promedio = total_edades / len(empleados)
+    print(f"📊 La edad promedio de los empleados es: {promedio:.1f} años.")
+
+# Ejecución de ejemplo
+registrar_empleado("Ana Pérez", "1995-05-20", "Analista de RRHH")
+registrar_empleado("Luis Gómez", "1989-11-15", "Desarrollador")
+registrar_empleado("María Torres", "1992-03-10", "Contadora")
+
+mostrar_empleados()
+edad_promedio()
+```
+
+***
+
+## 📖 Explicación paso a paso:
+
+1. **Importación de librerías**  
+   - Usamos `datetime` para calcular la edad de los empleados a partir de su fecha de nacimiento.
+
+2. **Base de datos sencilla**  
+   - En este caso usamos una **lista en memoria** (`empleados`), pero fácilmente se podría conectar a Excel, CSV o una base de datos real.
+
+3. **Funciones principales**:
+   - `registrar_empleado()` → Guarda los datos en la lista.
+   - `mostrar_empleados()` → Lista todos los empleados registrados.
+   - `edad_promedio()` → Calcula la edad media de todos los empleados.
+
+4. **Ejecución de prueba**  
+   - Registramos tres empleados con datos ficticios.
+   - Mostramos la lista y calculamos la edad promedio.
+
+***
+
+## 💡 Posibles mejoras:
+- Guardar y leer empleados desde un archivo Excel o CSV.
+- Agregar eliminación y actualización de datos.
+- Integrar control de asistencia o cálculo de días trabajados.
+- Crear interfaz gráfica con `tkinter` o aplicación web con `Flask` o `Django`.
+
+***
+
+**RETO**
+Como analista de recursos humanos piense en nuevas funcionalidades que podría tener este esqueleto de herramienta y comparte su nombre y objeto en:
+
+https://excalidraw.com/#json=4-fhjee-6Wi9fYbAmaEhn,6SSFWJymjks8TgraUWIb-A
+
+
+

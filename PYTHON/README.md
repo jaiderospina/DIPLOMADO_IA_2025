@@ -1,4 +1,4 @@
-# Manual en Markdown: Cómo Instalar Python en Windows 11 (Referencia al vídeo de Tutoliber)
+# Cómo Instalar Python en Windows 11 (Referencia al vídeo de Tutoliber)
 
 > Basado en el video “[#1 CÓMO INSTALAR PYTHON Windows 11 en 2025 | Paso a Paso para Novatos](https://www.youtube.com/watch?v=9NXl3KMWnjo)” de Tutoliber[1].
 
@@ -177,6 +177,7 @@ edad_promedio()
 Como analista de recursos humanos piense en nuevas funcionalidades que podría tener este esqueleto de herramienta y comparte su nombre y objeto en:
 
 https://excalidraw.com/#json=4-fhjee-6Wi9fYbAmaEhn,6SSFWJymjks8TgraUWIb-A
+
 
 
 

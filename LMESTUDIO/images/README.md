@@ -21,26 +21,41 @@ LM Studio es una aplicación de escritorio diseñada para ejecutar modelos de le
 3. **Seguir el asistente**
    - El asistente de instalación guiará a través de los pasos necesarios. Solo hay que aceptar los términos y condiciones, elegir la ruta de instalación y finalizar.
 
-[](/images/lmstudio.gif)
+![](lmstudio.gif)
 
 4. **Iniciar la aplicación**
    - Tras instalar, LM Studio estará disponible en el menú de inicio y podrá abrirse desde allí.
 
+**Instalación en local**
+
 ![](1.jpg)
+
+**Seleccionar el nivel de usuario**
 
 ![](2.jpg)
 
+**Descarga de modelos** 
 ![](3.jpg)
 
+**Inicio de chat**
 ![](4.jpg)
+
+**Logueo discrecional a LM Studio Hub**
 
 ![](5.jpg)
 
+**Autenticación SSO**
+
 ![](6.jpg)
+
+**Autorizar permsisos**
 
 ![](7.jpg)
 
+**Selección de nickname**
+
 ![](8.jpg)
+
 
 ![](9.jpg)
 
@@ -127,3 +142,4 @@ Esto permite automatizar consultas a modelos de IA locales directamente desde c�
 - Desde la aplicación es posible explorar y descargar modelos de distintas capacidades.
 
 - Para tareas avanzadas, se recomienda consultar la documentación oficial y la integración en proyectos personalizados.
+

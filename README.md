@@ -31,7 +31,7 @@ http://googleusercontent.com/youtube_content/0
 
 - Google AI Studio es una herramienta web gratuita que simplifica el desarrollo con los modelos de lenguaje de Google, como Gemini. Su principal utilidad es proporcionar a los desarrolladores un espacio fácil de usar para explorar, crear prototipos y experimentar con modelos de IA sin necesidad de una configuración compleja. Permite a los usuarios diseñar y probar sus propios prompts (instrucciones para la IA), ajustar los modelos para tareas específicas y obtener fragmentos de código para integrar la IA en sus propias aplicaciones.
 
-**https://aistudio.google.com/**
+ **https://aistudio.google.com/**
 
 - **Google Colaboratory (también conocido como **Google Colab**)** es una plataforma gratuita de **Jupyter Notebook** alojada en la nube, que permite a los usuarios escribir y ejecutar código Python directamente en sus navegadores. No requiere ninguna instalación o configuración, y ofrece acceso sin costo a recursos informáticos potentes, como **GPUs y TPUs** de Google.
 
@@ -42,3 +42,9 @@ Este video de YouTube es relevante porque ofrece una guía para principiantes so
 http://googleusercontent.com/youtube_content/1
 
   **https://colab.research.google.com/**
+
+ - **Jupyter** es una iniciativa de código abierto que tiene como objetivo desarrollar software, estándares abiertos y servicios para la informática interactiva en docenas de lenguajes de programación. Su nombre es un acrónimo de los lenguajes de programación principales a los que se dirige: Julia, Python y R.
+
+Su herramienta más conocida es el Jupyter Notebook, una aplicación web que permite a los usuarios crear y compartir documentos que contienen código en vivo, ecuaciones, visualizaciones y texto narrativo. Es una plataforma fundamental en campos como la ciencia de datos, la investigación científica y la educación.
+  
+      **https://jupyter.org/**

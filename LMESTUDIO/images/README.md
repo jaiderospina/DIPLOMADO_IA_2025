@@ -11,7 +11,7 @@ LM Studio es una aplicación de escritorio diseñada para ejecutar modelos de le
 1. **Descargar el instalador**
    - El usuario debe acceder a la página oficial de LM Studio y descargar el instalador para Windows.
 
-   [descarga](/images/download.jpg)
+   ![descarga](download.jpg)
 
 2. **Ejecutar el instalador**
    - Una vez descargado, se ejecuta el archivo instalador (`.exe`).
@@ -26,29 +26,27 @@ LM Studio es una aplicación de escritorio diseñada para ejecutar modelos de le
 4. **Iniciar la aplicación**
    - Tras instalar, LM Studio estará disponible en el menú de inicio y podrá abrirse desde allí.
 
-[](/images/1.jpg)
+![](1.jpg)
 
-[](/images/2.jpg)
+![](2.jpg)
 
-[](/images/3.jpg)
+![](3.jpg)
+
+![](4.jpg)
+
+![](5.jpg)
+
+![](6.jpg)
+
+![](7.jpg)
+
+![](8.jpg)
+
+![](9.jpg)
+
+![](10.jpg)
 
 
-[](/images/4.jpg)
-
-
-[](/images/5.jpg)
-
-[](/images/6.jpg)
-
-[](/images/7.jpg)
-
-
-[](/images/8.jpg)
-
-
-[](/images/9.jpg)
-
-[](/images/10.jpg)
 ### Instalación en macOS
 
 1. **Descargar el instalador**
@@ -127,4 +125,5 @@ Esto permite automatizar consultas a modelos de IA locales directamente desde c�
 **Notas adicionales:**
 - LM Studio recomienda modelos compatibles según el hardware detectado.
 - Desde la aplicación es posible explorar y descargar modelos de distintas capacidades.
+
 - Para tareas avanzadas, se recomienda consultar la documentación oficial y la integración en proyectos personalizados.

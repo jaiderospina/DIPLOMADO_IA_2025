@@ -19,14 +19,15 @@ docker pull jaiderospina/vacaciones-web:1.0
 docker run -d --name vacaciones -p 8080:80 jaiderospina/vacaciones-web:1.0
 ```
 
-![]9(calculadora_contenerizada.gif)
+![](calculadora_contenerizada.gif)
 
 
 
 **El sistema abre el puerto 8080**
 
-![alt text](image.png)
+![alt text](puerto.jpg)
 
 **El sistema abre una nueva ventana con la aplicación**
 
-![alt text](DESPLIEGUE.png)
+![alt text](DESPLIEGUE.jpg)
+

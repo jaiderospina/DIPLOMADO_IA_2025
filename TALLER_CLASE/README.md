@@ -8,4 +8,6 @@ El grupo se dividirá en tres países ficticios (Altairis, Neurokron y Lumora), 
 
 Finalmente, se invita a cada grupo a presentar en clase los resultados de su trabajo, compartiendo cómo integraron las ideas, herramientas y estrategias para construir una nación soberana en el contexto de las guerras futuras, fomentando así el análisis crítico y la creatividad aplicada.
 
-![Taller en Clase](/Parte 1.pdf)
+**Anexo**
+Parte 1.pdf 
+[Anexo](Parte 1.pdf)

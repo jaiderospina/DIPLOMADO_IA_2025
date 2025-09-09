@@ -10,4 +10,5 @@ Finalmente, se invita a cada grupo a presentar en clase los resultados de su tra
 
 **Anexo**
 Parte 1.pdf 
-[Anexo](Parte 1.pdf)
+
+
